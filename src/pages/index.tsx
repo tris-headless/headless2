@@ -32,7 +32,7 @@ export default function Page() {
 
       <main className="content">
         <Hero
-          title="Get Started with Headless"
+          title="I really hope this works haha"
           buttonText="Developer Docs"
           buttonURL="https://developers.wpengine.com/"
           button2Text="Headless on GitHub"
